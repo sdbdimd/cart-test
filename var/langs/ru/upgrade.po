@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.16.1/upgrade.po\n"
+"X-Crowdin-File-ID: 7289\n"
+"PO-Revision-Date: 2023-01-27 13:41\n"
+
+msgctxt "Languages::stripe.upgrade_notification.title_add_stripe_checkout_mve"
+msgid "Stripe and Stripe Connect now support many new payment methods"
+msgstr "Stripe и Stripe Connect теперь поддерживают много новых вариантов оплаты"
+
+msgctxt "Languages::stripe.upgrade_notification.text_add_stripe_checkout_mve"
+msgid "We have integrated Stripe Checkout for Stripe and Stripe Connect. It allows customers to pay by Apple Pay and Google Pay, as well as through Sofort, Klarna, Affirm, Afterpay and other local payment methods. If you and your vendors use Stripe Connect, you'll also be able to distribute payments for orders between vendors automatically. Activate Stripe Checkout in the settings of the payment method with the \"Stripe\" or \"Stripe Connect\" processor and the \"3-D Secure\" enabled, then configure extra payment methods in your Stripe Dashboard."
+msgstr "Мы интегрировали в Stripe и Stripe Connect новый вариант оплаты Stripe Checkout. Он позволяет покупателям использовать Apple Pay и Google Pay, а также Sofort, Klarna, Afterpay и другие локальные способы оплаты. Если вы и ваши продавцы используете Stripe Connect, вы также сможете автоматически распределять средства с заказов между маркетплейсом и продавцами. Включите Stripe Checkout в настройках способа оплаты с процессором \"Stripe\" или \"Stripe Connect\" и включенным 3-D Secure, а затем настройте дополнительные способы оплаты в панели управления Stripe."
+
+msgctxt "Languages::stripe.upgrade_notification.title_add_stripe_checkout_ult"
+msgid "Stripe now supports many new payment methods"
+msgstr "Stripe теперь поддерживает много новых вариантов оплаты"
+
+msgctxt "Languages::stripe.upgrade_notification.text_add_stripe_checkout_ult"
+msgid "We have integrated Stripe Checkout that allows customers to pay by Sofort, Klarna, Affirm, Afterpay and other payment methods. Activate Stripe Checkout in the settings of the payment method with the \"Stripe\" processor, then configure extra payment methods in your Stripe Dashboard."
+msgstr "Мы добавили Stripe Checkout, который позволяет принимать оплату через Sofort, Klarna, Affirm, Afterpay и други способы оплаты. Для этого включите Stripe Checkout в настройках способа оплаты с процессором \"Stripe\", а затем настройте дополнительные варианты оплаты в панели управления Stripe."
+
+msgctxt "Languages::upgrade_notification.title_customize_vendor_panel"
+msgid "Customize your vendor panel and onboarding"
+msgstr "Настройте панель продавца и онбординг"
+
+msgctxt "Languages::upgrade_notification.text_customize_vendor_panel"
+msgid "<p>The admin and vendor panels have changed. Here is what to look out for:</p><ul><li>The dashboard now includes a to-do list. It appears if anything requires immediate attention. For example: products on moderation or without a category, unread messages, and so on.</li><li>You can now set up an onboarding guide and marketplace-wide announcements in the vendor panel for all your sellers. Add a video in a couple of clicks, or tailor things to your liking with a little HTML and CSS.</li><li>You can now configure the menu in the vendor panel. Show, hide and move menu items; link to a specific vendor panel page, or to external sites.</li></ul><p><b>To edit the vendor panel (onboarding, announcements, and menu),</b> use the account menu in the upper right corner and choose \"Log in as vendor\". If you go to the vendor panel that way, you'll see the editing modes in the bottom toolbar.</p>"
+msgstr "<p>Панели администратора и продавца изменились. Вот на что стоит обратить внимание:</p><ul><li>На главной странице появился список дел. Там будут появляться вещи, которые требуют внимания. Например, товары на модерации или без категории, информация о новых сообщениях, и т.д.</li><li>Также появилась возможность настроить инструкции или размещать анонсы для продавцов в их панелях управления. Можно быстро и легко добавить видео и текст, а можно настроить всё под себя с использованием HTML и CSS.</li><li>Появилась возможность настроить меню в панели продавца. Добавляйте, скрывайте и перемещайте пункты меню; эти пункты могут вести на страницы панели продавца или на внешние сайты.</li></ul><p><b>Чтобы отредактировать панель продавца (инструкции, анонсы и меню),</b> воспользуйтесь функцией \"Войти как продавец\" в правом верхнем углу. Если вы перейдёте в панель продавца таким образом, вы увидите режимы редактирования в нижней панели.</p>"
+

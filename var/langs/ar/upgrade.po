@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /release-4.16.1/upgrade.po\n"
+"X-Crowdin-File-ID: 7289\n"
+"PO-Revision-Date: 2023-01-27 13:40\n"
+
+msgctxt "Languages::stripe.upgrade_notification.title_add_stripe_checkout_mve"
+msgid "Stripe and Stripe Connect now support many new payment methods"
+msgstr ""
+
+msgctxt "Languages::stripe.upgrade_notification.text_add_stripe_checkout_mve"
+msgid "We have integrated Stripe Checkout for Stripe and Stripe Connect. It allows customers to pay by Apple Pay and Google Pay, as well as through Sofort, Klarna, Affirm, Afterpay and other local payment methods. If you and your vendors use Stripe Connect, you'll also be able to distribute payments for orders between vendors automatically. Activate Stripe Checkout in the settings of the payment method with the \"Stripe\" or \"Stripe Connect\" processor and the \"3-D Secure\" enabled, then configure extra payment methods in your Stripe Dashboard."
+msgstr ""
+
+msgctxt "Languages::stripe.upgrade_notification.title_add_stripe_checkout_ult"
+msgid "Stripe now supports many new payment methods"
+msgstr ""
+
+msgctxt "Languages::stripe.upgrade_notification.text_add_stripe_checkout_ult"
+msgid "We have integrated Stripe Checkout that allows customers to pay by Sofort, Klarna, Affirm, Afterpay and other payment methods. Activate Stripe Checkout in the settings of the payment method with the \"Stripe\" processor, then configure extra payment methods in your Stripe Dashboard."
+msgstr ""
+
+msgctxt "Languages::upgrade_notification.title_customize_vendor_panel"
+msgid "Customize your vendor panel and onboarding"
+msgstr ""
+
+msgctxt "Languages::upgrade_notification.text_customize_vendor_panel"
+msgid "<p>The admin and vendor panels have changed. Here is what to look out for:</p><ul><li>The dashboard now includes a to-do list. It appears if anything requires immediate attention. For example: products on moderation or without a category, unread messages, and so on.</li><li>You can now set up an onboarding guide and marketplace-wide announcements in the vendor panel for all your sellers. Add a video in a couple of clicks, or tailor things to your liking with a little HTML and CSS.</li><li>You can now configure the menu in the vendor panel. Show, hide and move menu items; link to a specific vendor panel page, or to external sites.</li></ul><p><b>To edit the vendor panel (onboarding, announcements, and menu),</b> use the account menu in the upper right corner and choose \"Log in as vendor\". If you go to the vendor panel that way, you'll see the editing modes in the bottom toolbar.</p>"
+msgstr ""
+
