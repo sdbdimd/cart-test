@@ -1,0 +1,21 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::age_ver"
+msgid "Age ver"
+msgstr "Age ver"
+
+msgctxt "Languages::enter_your_date_of_birth"
+msgid "Enter your date of birth"
+msgstr "Введите дату своего рождения" 
+
+msgctxt "Languages::access_closed"
+msgid "Access_closed"
+msgstr "Доступ к сайту закрыт" 
+
+msgctxt "Languages::under_18"
+msgid "under_18"
+msgstr "Вам не исполнилось 18 лет" 
