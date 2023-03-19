@@ -1,5 +1,4 @@
 <?php 
-use Tygh\Registry;
  if (!defined('BOOTSTRAP')) { die('Access denied'); }
 
 function is_adult($birth_date) { 
