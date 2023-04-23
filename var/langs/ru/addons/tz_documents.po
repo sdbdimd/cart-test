@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Project-Id-Version: cs-cart-ru\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::tz_documents"
+msgid "Documents"
+msgstr "Документы"
+
+msgctxt "Languages::tz_documents"
+msgid "Documents"
+msgstr "Документы"
+
+msgctxt "Languages::vendor_documents"
+msgid "Vendor documents"
+msgstr "Документы продавца"
+
+msgctxt "Languages::store_documents"
+msgid "Store documents"
+msgstr "Докуметы магазина"
+
+msgctxt "Languages::tz_documents_menu_description"
+msgid "Manage store documents"
+msgstr "Управление документами магазина"
+
+msgctxt "Languages::add_document"
+msgid "Add document"
+msgstr "Добавить документ"
+
+msgctxt "Languages::add_document_category"
+msgid "Add document category"
+msgstr "Добавить категорию документа"
+
+msgctxt "Languages::documents_categories"
+msgid "Documents categories"
+msgstr "Категории документов"
+
+msgctxt "Languages::new_document"
+msgid "New document"
+msgstr "Новый документ"
+
+msgctxt "Languages::internal"
+msgid "Internal"
+msgstr "Внутренний"
+
+msgctxt "Languages::editing_document_category"
+msgid "Editing document category"
+msgstr "Редактирование категории документа"
+
+msgctxt "Languages::editing_document"
+msgid "Editing document"
+msgstr "Редактирование документа"
+
+msgctxt "Languages::sort_by_name_asc"
+msgid "Sort by name: ASC"
+msgstr "Сортировать по названию: от А до Я"
+
+msgctxt "Languages::sort_by_name_desc"
+msgid "Sort by name: DESC"
+msgstr "Сортировать по названию: от Я до А"
+
+msgctxt "Languages::sort_by_category_desc"
+msgid "Sort by category: DESC"
+msgstr "Сортировать по категории: от Я до А"
+
+msgctxt "Languages::sort_by_category_asc"
+msgid "Sort by category: ASC"
+msgstr "Сортировать по категории: от А до Я"
+
+msgctxt "Languages::sort_by_create_date_asc"
+msgid "Sort by creation date: ASC"
+msgstr "Сортировать по дате создания: по возрастанию"
+
+msgctxt "Languages::sort_by_create_date_desc"
+msgid "Sort by creation date: DESC"
+msgstr "Сортировать по дате создания: по убыванию"
